@@ -1,61 +1,43 @@
-## Hi there 👋
-
-<!--
-**divinedalen53-prog/Divinedalen53-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun 
-fact: ...
--->
 Hi there, I’m Divine Dalen 👋
 
-💻 Industrial IT Student | Networking Enthusiast | Future Cybersecurity Engineer
+💻 Computer Engineering & AI Preparatory Student | Cybersecurity Enthusiast 🔐
 
 Welcome to my GitHub profile! 🚀
 
-I’m interested in Industrial Computing, Computer Networks, Cybersecurity, and Embedded Systems. I’m passionate about technology and continuously learning new skills to build reliable, secure, and innovative solutions.
-
-⸻
+I’m currently pursuing a Preparatory Program in Computer Engineering and Artificial Intelligence, specializing in Cybersecurity. I’m passionate about computer science, artificial intelligence, network security, and developing technical skills through hands-on projects.
 
 👩‍💻 About Me
 
-* 🎓 Interested in Industrial Computing and Information Technology.
-* 🌐 Exploring computer networking and network administration.
-* 🔐 Learning about cybersecurity and network security.
-* ⚙️ Interested in embedded systems and industrial automation.
-* 📚 Always learning and improving my technical skills.
-* 🎯 Goal: Build a career in networking and cybersecurity.
+* 🎓 Preparatory student in Computer Engineering and Artificial Intelligence.
+* 🔐 Specialization: Cybersecurity.
+* 💻 Interested in programming, network administration, and information security.
+* 🤖 Exploring Artificial Intelligence and its applications.
+* 🌱 Continuously learning and developing my technical skills.
+* 🎯 My goal is to build a career in cybersecurity and AI.
 
-🛠️ Technologies & Areas of Interest
+🛠️ Technologies & Interests
 
-* Programming: C++, programming fundamentals
-* Networking: TCP/IP, LAN, VLAN, DHCP, switching and routing
-* Systems: Computer systems and operating systems
-* Security: Cybersecurity fundamentals
-* Industrial IT: Automation and embedded systems
+* Programming: C++, Python
+* Cybersecurity: Network security and security fundamentals
+* Networking: TCP/IP, LAN, VLAN, DHCP
+* Artificial Intelligence: AI fundamentals and exploration
+* Tools: Git, GitHub, Linux
 
-📌 Projects
+These are my areas of interest and learning; my profile will grow as I gain experience.
 
-I’m building my technical portfolio through practical projects and continuous learning.
+📂 Projects & Learning Journey
 
-* 🌐 Network configuration and VLAN segmentation
-* 💻 Programming exercises in C++
-* ⚙️ Industrial computing and automation projects
+I’m using GitHub to document my learning journey and share my projects.
+
+* 💻 Programming exercises and algorithms
+* 🌐 Computer networking projects
+* 🔐 Cybersecurity learning projects
+* 🤖 Artificial Intelligence experiments
 
 More projects coming soon!
 
-🤝 Connect With Me
+🤝 Let’s Connect
 
-I’m always happy to learn, explore new technologies, and connect with people who share an interest in IT.
+Thanks for visiting my profile! ⭐
 
-⸻
-
-⭐ “Keep learning, keep building, keep growing.”
+“Learn continuously. Build confidently. Secure the digital world.”
